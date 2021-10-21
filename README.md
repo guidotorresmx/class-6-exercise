@@ -10,3 +10,11 @@
     git add hello-world.txt
     git commit -m "created hello-world.txt file"
 ```
+
+3. Assuming that you are currently within a Git repository that contains a file named 'README.md', write the command (or commands) that will display any uncommitted changes made to this file.
+```
+    git diff README.md
+```
+
+
+
