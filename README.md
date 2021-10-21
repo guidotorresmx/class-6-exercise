@@ -16,5 +16,8 @@
     git diff README.md
 ```
 
-
+4. Assuming that you are currently within a Git repository that includes several commits, write the command (or commands) that will display the changes from the commit with the ID of abc123.
+```
+    git show abc123
+```
 
